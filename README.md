@@ -7,7 +7,7 @@ Test your memory skills by flipping cards and finding matching pairs!
 
 ## 🚀 Live Demo
 
-👉 https://memory-card-game-rjv9nsrc8-khushboo-singh-22s-projects.vercel.app
+👉https://memory-card-game-ashy.vercel.app
 
 ---
 
